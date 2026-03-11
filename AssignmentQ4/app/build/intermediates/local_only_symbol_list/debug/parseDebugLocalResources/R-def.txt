@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button_Manipulate
+id button_Reset
+id input_word1
+id input_word2
+id input_word3
+id resultsLayout
+id textViewAcronym
+id textViewManipulated
+id textViewOriginal
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.AssignmentQ4
+style Theme.AssignmentQ4
+xml backup_rules
+xml data_extraction_rules

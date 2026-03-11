@@ -1,0 +1,27 @@
+com.eduv4810074.assignmentq1
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id avg_output_textView
+id button_calculate
+id englishScore_textView3
+id grade_output_textView
+id input_englishScore
+id input_mathScore
+id input_scienceScore
+id input_studentName
+id main
+id mathScore_textView2
+id name_output_textView
+id scienceScore_textView
+id studentName_textView
+id textView6
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme_AssignmentQ1
+style Theme_AssignmentQ1
+xml backup_rules
+xml data_extraction_rules

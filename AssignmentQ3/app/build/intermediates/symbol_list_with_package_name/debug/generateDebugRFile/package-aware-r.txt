@@ -1,0 +1,18 @@
+com.eduv4810074.assignmentq3
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button_calculate
+id input_height
+id input_weight
+id output_bmivalue
+id output_category
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme_AssignmentQ3
+style Theme_AssignmentQ3
+xml backup_rules
+xml data_extraction_rules
